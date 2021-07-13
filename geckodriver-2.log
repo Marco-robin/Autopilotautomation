@@ -1,0 +1,13 @@
+1626191203490	geckodriver	INFO	Listening on 127.0.0.1:49158
+1626191206612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\huawe\\AppData\\Local\\Temp\\rust_mozprofilepdCAxN"
+1626191207113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\huawe\\AppData\\Local\\Temp\\rust_mozprofilepdCAxN\\search.json.mozlz4", (void 0)))
+1626191209989	Marionette	INFO	Listening on port 49166
+1626191210310	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626191224021	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TbD3vPFlUWKZD-9L4ZxB0HJI/recaptcha__en.js, line 690: SecurityError: Permission denied to access property "a-7hfoh9mmjqlb" on cross-origin object
+1626191238504	Marionette	INFO	Stopped listening on port 49166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
