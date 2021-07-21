@@ -1,5 +1,5 @@
 ***Settings***
-Resource          ../Resources/data.robot
+Resource                         ../Resources/data.robot
 Library                             String
 Library                             Selenium2Library
 Library                             RequestsLibrary

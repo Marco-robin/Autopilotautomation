@@ -8,9 +8,9 @@ Library             Selenium2Library
 Go to autopilot test
     [Documentation]    Autopilot page
     [Tags]  Smoke       
-    Begin Web Test 
-                  
+    Begin Web Test                
     #  https://${login_url}/web
+    
 Go to HoitWorks
    [Documentation]     Ho it works page
     How it works
